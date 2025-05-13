@@ -11,11 +11,14 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 This project aims to provide insights into the financial performance of the customers at Aurora Bank.
 The dataset was analysed to generate insights on the Customer Demographics, Debt-to-income ratio, Debt Risk Score, customer spending pattern and the trend in credit and debit card usage.
 
 ### Data Source
 Financial Data: The primary dataset used for this analysis is the "aurora_bank_data.csv" file, containing customers, transaction and card data.
+
+
 
 ### Tools
 - Excel - Data Extraction
@@ -65,3 +68,7 @@ Based on the analysis, the following is reccommended;
 - Offer credit counseling and financial literacy programs to low and middle income groups.
 - Implement strict lending and monitor clients with high debt-to-income.
 - Give incentives for cards that are less favoured by giving cashback and credit-building rewards.
+
+🥰
+
+💻
