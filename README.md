@@ -20,7 +20,6 @@ The dataset was analysed to generate insights on the Customer Demographics, Debt
 Financial Data: The primary dataset used for this analysis is the "aurora_bank_data.csv" file, containing customers, transaction and card data.
 
 ## Dashboard Projects
-
 #### Demographics Dashboard
 ![Demographics Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Demographic.png?raw=true)
 #### Financial Health Dashboard
