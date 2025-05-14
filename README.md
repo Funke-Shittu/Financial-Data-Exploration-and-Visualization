@@ -31,7 +31,7 @@ Financial Data: The primary dataset used for this analysis is the "aurora_bank_d
 
 ### Tools
 - Excel - Data Extraction
-
+[Download Here](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Financial_data.xlsx)
 - Power Query - Data Cleaning
 - Power BI - Creating Reports
 
