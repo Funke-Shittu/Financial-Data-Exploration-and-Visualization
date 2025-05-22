@@ -21,7 +21,7 @@ Financial Data: The primary dataset used for this analysis is the "aurora_bank_d
 
 ## Dashboard Projects
 #### Demographics Dashboard
-![Demographics Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Demographic.png?raw=true)
+[![Dashboard Preview](assets/dashboard.png)](https://lnkd.in/drAuZ4-6)
 #### Financial Health Dashboard
 ![Financial Health Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Financial.png?raw=true)
 #### Transaction Dashboard
