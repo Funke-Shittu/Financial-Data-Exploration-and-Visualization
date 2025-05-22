@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- [Dashboard Projects](#dashboards)
+- [Dashboard Preview](#dashboards)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#datacleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -19,15 +19,8 @@ The dataset was analysed to generate insights on the Customer Demographics, Debt
 ### Data Source
 Financial Data: The primary dataset used for this analysis is the "aurora_bank_data.csv" file, containing customers, transaction and card data.
 
-## Dashboard Projects
-#### Demographics Dashboard
+## Dashboard Preview
 [![Dashboard Preview](assets/dashboard.png)](https://lnkd.in/drAuZ4-6)
-#### Financial Health Dashboard
-![Financial Health Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Financial.png?raw=true)
-#### Transaction Dashboard
-![Transaction Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Transaction%20Det..png?raw=true)
-#### Card Details Dashboard
-![Card Details Dashboard](https://github.com/Funke-Shittu/Financial-Data-Exploration-and-Visualization/blob/main/Card%20Details.png?raw=true)
 
 ### Tools
 - Excel - Data Extraction
